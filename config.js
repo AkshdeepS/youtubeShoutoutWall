@@ -1,7 +1,7 @@
 var CONFIG = {
 
 	// Update the below keys as required
-	"nightbotToken" : "xxx", // Add your !quote token from nightbot custom quote API here
+	"nightbotToken" : "95c05c4b", // Add your !quote token from nightbot custom quote API here
 	"googleApiKeys" : ["xxx"], // Add your google API key/s here
 	"nightbotPrefix" : /zzz/gi, // Change zzz to align with whatever prefix you've set in your !wall command
 
